@@ -9,7 +9,7 @@
 
 <p>Neste projeto desenvolvi uma página para colocar em prática as habilidades aprendidas na minha trajetória front-end com foco em responsividade e fixação dos conceitos de HTML & CSS.<p>
 
-Resultado final do projeto:<br>
+## 🎨 Resultado:
 
 Desktop:
 <img src="https://github.com/lucasseccatto/easy-shopping/blob/master/assets/Desktop.png?raw=true" alt="desktop" />
