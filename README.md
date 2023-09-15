@@ -1,9 +1,11 @@
 # Projeto Easy Shopping
 
 ## 📝 Apresentação:
+
 <p>Este projeto foi feito com o objetivo de desenvolver mais minhas habilidades no HTML & CSS.</p>
 
 ## 🔨Feito com:
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 
@@ -11,8 +13,11 @@
 
 ## 🎨 Resultado:
 
-Desktop:
-<img src="https://github.com/lucasseccatto/easy-shopping/blob/master/assets/Desktop.png?raw=true" alt="desktop" />
+<a href="https://lucasseccatto.github.io/easy-shopping/">Projeto</a>
 
-Mobile:<br>
-<img src="https://github.com/lucasseccatto/easy-shopping/blob/master/assets/Mobile.png?raw=true" alt="mobile" />
+Desktop:
+<img src="https://github.com/lucasseccatto/easy-shopping/blob/master/assets/images/Desktop.png?raw=true" alt="desktop" />
+
+Mobile:
+<br>
+<img src="https://github.com/lucasseccatto/easy-shopping/blob/master/assets/images/Mobile.png?raw=true" alt="mobile" />
